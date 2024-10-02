@@ -2,6 +2,6 @@
     <string name="app_name">MouraPlacaslg</string>
     <string name="enter">ENTRAR</string>
     <string name="password">SENHA</string>
-    <string name="login">LOGIN</string>
+    <string name="username">LOGIN</string>
     <string name="informe_o_login_e_senha">Informe o Login e Senha</string>
 </resources>
